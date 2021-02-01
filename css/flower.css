@@ -486,7 +486,7 @@ h5{
         padding: 0 15px;
     }
     .home .home-content .content .name{
-        font-size: 60px !important;
+        font-size: 49px !important;
     }
     .home .home-content .content p{
         padding: 62px 40px 30px !important;
@@ -505,11 +505,9 @@ h5{
     } 
     .shop .header .p{
         width: 100% !important;
-    }
-    
-    
+    }    
 }
-@media (min-width: 676px) and (max-width: 992px){
+@media (min-width: 767px) and (max-width: 992px){
     .flower .image .box-text{
         letter-spacing: 6px;
         font-size: 7px;
@@ -519,7 +517,7 @@ h5{
     }
     
 }
-@media (max-width: 676px){
+@media (max-width: 767px){
     .home .home-content{
         padding: 0 30px !important;
     }
